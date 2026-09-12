@@ -2,6 +2,7 @@
   "name": "Órbita — Calendário da Família",
   "short_name": "Órbita",
   "description": "Calendário familiar com agenda de provas escolares, perfis e alertas.",
+  "id": "/963299-calendar/",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
